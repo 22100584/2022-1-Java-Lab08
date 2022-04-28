@@ -20,7 +20,6 @@ public class MathDriver {
         MathDriver myDriver = new MathDriver();
         myDriver.run(args);
     }
-
 /**
  * THis is run method
  * @param args this is parameter
