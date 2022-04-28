@@ -16,9 +16,7 @@ public class MathDriver {
  * args[2],args[3] is integer to use for math method. 
  */
 
-
-
-    public static void main(String[] args){
+ public static void main(String[] args){
         MathDriver myDriver = new MathDriver();
         myDriver.run(args);
     }
