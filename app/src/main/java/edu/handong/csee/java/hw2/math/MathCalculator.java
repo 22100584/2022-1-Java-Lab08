@@ -194,6 +194,4 @@ public class MathCalculator {
         int Square=a*a;
         return Square;
     }
-
-
 }
